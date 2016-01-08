@@ -13,3 +13,4 @@ Running `grunt test` will run the unit tests with karma.
 
 ## Requirements
 * Review the idead and make some proposal to have some good purpose here to start the game
+* Exploratory research
